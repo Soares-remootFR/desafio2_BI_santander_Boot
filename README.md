@@ -3,10 +3,10 @@ Santander Bootcamp 2023 - Ciência de Dados com Python (soares_remoot) Power BI 
 
 Neste desafio, pegamos uma base de dados no SQL e respondemos as seguintes perguntas:
 
-Quantidade de departamentos;
+01- Quantidade de departamentos;
 
-Quantidade funcionários;
+02- Quantidade funcionários;
 
-Salário de cada funcionário;
+03- Salário de cada funcionário;
 
-Quantidade de funcionários por departamento.
+04- Quantidade de funcionários por departamento.
